@@ -1,6 +1,13 @@
 ## CIDETEC Energy Storage
 
-Description of Cidetec.
+At CIDETEC Energy Storage we believe technology transfer to the industry is the culmination of the ideation and R+D process.
+
+We work together with leading national and international companies under B2B schemes, including heavy duty and passenger car makers, aerospace, specialty materials companies, battery manufacturers, energy companies and infrastructure operators.
+
+### Modelling Group
+
+In the Modelling Group we develop multiphysics models to enable advanced characterization of battery materials and help battery manufacturers to optimize their battery design.
+
 
 <!--
 
